@@ -2,6 +2,8 @@
 
 A conversational AI assistant that helps users discover and learn about historical monuments around the world. The assistant interacts in a natural, friendly way, suggests monuments based on travel plans, and can send additional information via email with OTP-based verification. The app features a modern chat UI built with Streamlit.
 
+This project is deployed on Streamlit: [https://historical-monument-ai-gnwdgysvzjooxekwwh3ntn.streamlit.app/](https://historical-monument-ai-gnwdgysvzjooxekwwh3ntn.streamlit.app/)
+
 ## Features
 - **Conversational AI**: Natural, context-aware dialogue about historical monuments and travel plans.
 - **Monument Information**: Fetches details about monuments using Wikipedia.
