@@ -1,0 +1,5 @@
+2025-05-25 21:13:03,092 - INFO - [TOOL RESPONSE] Tool: get_monument_info | Response: The India Gate (formerly known as All India War Memorial) is a war memorial located near the Rajpath (officially called Kartavya path) on the eastern edge of the "ceremonial axis" of New Delhi. It stands as a memorial to 74,187 soldiers of the Indian Army who died between 1914 and 1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War. 13,300 servicemen's names, including some soldiers and officers from the United Kingdom, are inscribed on the gate.
+2025-05-25 21:13:18,897 - INFO - [TOOL CALL] Tool: generate_and_send_otp | Input Parameters: {'email': 'gehlot306115@gmail.com'}
+2025-05-25 21:13:22,856 - INFO - [TOOL RESPONSE] Tool: generate_and_send_otp | Response: OTP sent to your email.
+2025-05-25 21:13:39,034 - INFO - [TOOL CALL] Tool: validate_otp | Input Parameters: {'email': 'gehlot306115@gmail.com', 'code': '134497'}
+2025-05-25 21:13:39,035 - INFO - [TOOL RESPONSE] Tool: validate_otp | Response: True

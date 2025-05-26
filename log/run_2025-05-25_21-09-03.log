@@ -1,0 +1,18 @@
+2025-05-25 21:09:05,159 - INFO - [USER QUESTION] User asked: hyy
+2025-05-25 21:09:06,760 - INFO - [AGENT RESPONSE] Hello! I can help you with information about historical monuments around the world. Are you planning a trip somewhere?
+2025-05-25 21:09:13,548 - INFO - [USER QUESTION] User asked: I am travelling to Noida next month for official work can you suggest me something be visit.
+2025-05-25 21:09:14,275 - INFO - [AGENT RESPONSE] That sounds exciting! Have you been to Noida before?
+2025-05-25 21:09:21,669 - INFO - [USER QUESTION] User asked: No, this is my first visit to India.
+2025-05-25 21:09:22,690 - INFO - [AGENT RESPONSE] Got it! Since it's your first time in India, I suggest visiting the India Gate and Humayun's Tomb in Delhi. They're both incredible historical sites near Noida.
+2025-05-25 21:09:54,598 - INFO - [USER QUESTION] User asked: then which one is best from both?
+2025-05-25 21:09:55,678 - INFO - [AGENT RESPONSE] The India Gate is a war memorial, while Humayun's Tomb is an impressive Mughal-era tomb. Since this is your first visit to India, I would recommend visiting India Gate. Would you like me to email you some more information about it?
+2025-05-25 21:10:04,795 - INFO - [USER QUESTION] User asked: yes
+2025-05-25 21:10:05,647 - INFO - [AGENT RESPONSE] I can email you more fascinating info—what’s your email?
+2025-05-25 21:10:12,214 - INFO - [USER QUESTION] User asked: gehlot306115@gmail.com
+2025-05-25 21:10:13,105 - INFO - [TOOL CALL] Tool: generate_and_send_otp | Input Parameters: {'email': 'gehlot306115@gmail.com'}
+2025-05-25 21:10:17,970 - INFO - [TOOL RESPONSE] Tool: generate_and_send_otp | Response: OTP sent to your email.
+2025-05-25 21:10:18,940 - INFO - [AGENT RESPONSE] I have sent a 6-digit code to your email address. Please provide the code to verify your email.
+2025-05-25 21:10:32,960 - INFO - [USER QUESTION] User asked: 485840
+2025-05-25 21:10:34,079 - INFO - [TOOL CALL] Tool: validate_otp | Input Parameters: {'email': 'gehlot306115@gmail.com', 'code': '485840'}
+2025-05-25 21:10:34,081 - INFO - [TOOL RESPONSE] Tool: validate_otp | Response: True
+2025-05-25 21:10:35,188 - INFO - [AGENT RESPONSE] Great! I'll email you some details about the monuments soon. Happy travels!
